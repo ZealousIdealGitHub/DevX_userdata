@@ -1,0 +1,1 @@
+echo Hello World # prints 'Hello World' to the terminal, using the echo command available in Windows Command Prompt
