@@ -1,0 +1,1 @@
+ipconfig /all # displays detailed information about the network configuration on the Windows system
