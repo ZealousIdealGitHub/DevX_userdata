@@ -1,1 +1,1 @@
-ping www.google.com | find /i "time="
+ping www.chatgpt.com | find /i "time="
